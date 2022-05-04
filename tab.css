@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f0f2f5;
+}
+
+#left img{
+    height: 170px;
+} 
+#left p{
+    font-size: 32px;
+    margin-right: 80px;
+}
